@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SOWIT</string>
+    <string name="plot_name">Plot name</string>
+    <string name="no_plots">No Plots</string>
+    <string name="plot_area">%s m2</string>
+    <string name="save_plot">Save Plot</string>
+    <string name="save_button">Save</string>
+    <string name="clear_markers">Clear Markers</string>
+</resources>
